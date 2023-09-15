@@ -1,0 +1,205 @@
+.index-background {
+    background-image: linear-gradient(to bottom, #123d44, #113c43, #113a41, #103940, #10383f, #10373e, #0f353c, #0f343b, #0f333a, #0e3238, #0e3137, #0e3036);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.index-background h1 {
+    font-family: 'Rock Salt', cursive;
+    color: #E6F4F1;
+}
+
+.index-background .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255, 255, 255, 0.9)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.index-background .navbar-toggler {
+    border-color: #E6F4F1;
+}
+
+.about-background .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255, 255, 255, 0.9)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.about-background .navbar-toggler {
+    border-color: #E6F4F1;
+}
+
+.portfolio-background .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255, 255, 255, 0.9)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.portfolio-background .navbar-toggler {
+    border-color: #E6F4F1;
+}
+
+.contact-background .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(255, 255, 255, 0.9)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.contact-background .navbar-toggler {
+    border-color: #E6F4F1;
+}
+
+.main img {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.index-background h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #E6F4F1;
+}
+
+.navbar-nav .nav-link {
+    color: #E6F4F1;
+    font-size: 20px;
+}
+
+.navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
+    color: #7FEAA9;
+}
+
+.fab{
+    color: #E6F4F1;
+}
+
+.fas {
+    color: #E6F4F1;
+}
+
+.fab:hover, .fas:hover {
+    color: #7FEAA9;
+}
+
+.custom-envelope-icon {
+    font-size: 37.5px;
+    width: 37px;
+    height: 37px;
+}
+
+
+.resume a {
+    background-color: #46a76f;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.resume a:hover {
+    background-color: #108B52;
+    color: white;
+}
+
+.about-background {
+    background-image: linear-gradient(to bottom, #123d44, #113c43, #113a41, #103940, #10383f, #10373e, #0f353c, #0f343b, #0f333a, #0e3238, #0e3137, #0e3036);
+    font-family: 'Open Sans', sans-serif;
+    color: #E6F4F1;
+}
+
+
+.background {
+    border-radius: 15px;
+}
+
+.background p {
+    color: #E6F4F1;
+    font-size: 1.2em;
+}
+
+.about-background h2 {
+    color: #E6F4F1;
+    font-family: 'Rock Salt', cursive;
+}
+
+img.about-img {
+    max-width: 300px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
+.contact-background {
+    background-image: linear-gradient(to bottom, #123d44, #113c43, #113a41, #103940, #10383f, #10373e, #0f353c, #0f343b, #0f333a, #0e3238, #0e3137, #0e3036);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contact-background h2 {
+    color: #E6F4F1;
+    font-family: 'Rock Salt', cursive;
+}
+
+form {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.form-label {
+    color: #E6F4F1;
+}
+
+.form input, .form textarea {
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+.form input:focus, .form textarea:focus {
+    background-color: transparent;
+    color: #E6F4F1;
+}
+
+.form input::placeholder, .form textarea::placeholder {
+    color: lightgrey;
+    font-style: italic;
+}
+
+button.btn-warning {
+    background-color: #46a76f;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+button.btn-warning:hover {
+    background-color: #108B52;
+    color: white;
+}
+
+.portfolio-background {
+    background-image: linear-gradient(to bottom, #123d44, #113c43, #113a41, #103940, #10383f, #10373e, #0f353c, #0f343b, #0f333a, #0e3238, #0e3137, #0e3036);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.portfolio-background h2 {
+    color: #E6F4F1;
+    font-family: 'Rock Salt', cursive;
+}
+
+.portfolio-background .card {
+    background-color: transparent;
+    border: none;
+    border-radius: 15px;
+}
+
+.portfolio-background .card-body {
+    color: #E6F4F1;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.portfolio-background img {
+    width: 550px;
+}
+
+.portfolio-background .card-body a {
+    background-color: #46a76f;
+    border: none;
+    color: white;
+    width: 150px;
+}
+
+.portfolio-background .card-body a:hover {
+    background-color: #108B52;
+    color: white;
+}
