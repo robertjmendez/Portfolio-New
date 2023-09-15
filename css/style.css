@@ -189,7 +189,8 @@ button.btn-warning:hover {
 }
 
 .portfolio-background img {
-    width: 550px;
+    width: 600px;
+    border-radius: 10px;
 }
 
 .portfolio-background .card-body a {
